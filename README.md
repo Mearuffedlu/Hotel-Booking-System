@@ -430,14 +430,6 @@ cd admin-panel && npm run lint
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-### Md. Samiur Rahman (Mukul)
-
-- 🌐 Website: [srmukul.com](https://srmukul.com)
-- 📧 Email: [contact@srmukul.com](mailto:contact@srmukul.com)
-- 🐙 GitHub: [@SamiurRahmanMukul](https://github.com/SamiurRahmanMukul)
-- 💼 LinkedIn: [@SamiurRahmanMukul](https://www.linkedin.com/in/SamiurRahmanMukul)
 
 ## 🙏 Acknowledgments
 
